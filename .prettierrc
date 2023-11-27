@@ -1,0 +1,14 @@
+{
+	"plugins": ["prettier-plugin-tailwindcss"],
+	"semi": false,
+	"useTabs": true,
+	"editor.formatOnPaste": true,
+	"singleQuote": true,
+	"jsxSingleQuote": true,
+	"enableDebugLogs": true,
+	"printWidth": 2000,
+	"tabWidth": 2,
+	"singleAttributePerLine": true,
+	"bracketSameLine": false,
+	"withNodeModules": true
+}
